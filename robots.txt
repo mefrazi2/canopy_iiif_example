@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://mefrazi2.github.io/canopy-iiif_example
+Host: https://mefrazi2.github.io/canopy_iiif_example
 
 # Sitemaps
-Sitemap: https://mefrazi2.github.io/canopy-iiif_example/sitemap.xml
+Sitemap: https://mefrazi2.github.io/canopy_iiif_example/sitemap.xml
