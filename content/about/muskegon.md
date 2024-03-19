@@ -12,3 +12,5 @@ referencedManifests:
 # Muskegon
 
 *Routes and more routes*
+
+<Viewer iiifContent="https://vlsrobinson.github.io/canopy_workshop/api/facet/subject/michigan-muskegon.json" />
